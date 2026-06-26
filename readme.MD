@@ -1,4 +1,4 @@
-**LoanDecision AI: High-Performance Risk-Assessment Pipeline**
+***LoanDecision AI: High-Performance Risk-Assessment Pipeline***
 LoanDecision AI is an end-to-end machine learning solution designed to automate high-throughput loan risk assessment. By engineering a robust pipeline capable of processing financial datasets, this system identifies high-risk applicants and predicts eligibility with 92% accuracy, focusing on low-latency inference and decision transparency.
 
 **Engineering Highlights**
